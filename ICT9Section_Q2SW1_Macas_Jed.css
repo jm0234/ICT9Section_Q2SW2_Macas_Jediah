@@ -1,0 +1,32 @@
+body {
+	background-color: indianred;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1 {
+   background-color: orangered;
+   color: whitesmoke;
+   font-style:italic;
+   font-family: sans-serif;
+}
+
+table {
+   padding: 10px;
+   border: inset mediumvioletred ; 10px;
+   border-width: 10px;
+   box-align: center;
+}
+td {
+   background-color: palevioletred;
+}
+
+.first h3{
+   text-align: center;
+   color:black;
+   font-family:sans-serif;
+   font-style:oblique ;
+}
+
